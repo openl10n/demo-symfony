@@ -1,0 +1,10 @@
+server:
+    hostname: openl10n.dev
+    username: user
+    password: userpass
+
+project: symfony
+
+files:
+    - app/Resources/translations/*.<locale>.*
+
